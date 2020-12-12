@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebOrder id="42">
+  <Customer>John Smith</Customer>
+  <Date>20160327</Date>
+  <Items>
+    <Item id="B1234" description="SAP Business One">      
+      <Quantity>4</Quantity>
+      <Price>133.33</Price>
+    </Item>
+    <Item id="A5678" description="Microsoft Office 2016">
+      <Quantity>2</Quantity>
+      <Price>1143.00</Price>
+    </Item>
+    <Item id="A2222" description="MSSQL Server 2014">
+      <Quantity>2</Quantity>
+      <Price>110.30</Price>
+    </Item>
+  </Items>
+</WebOrder>
+

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfXmlReaderApp"
         mc:Ignorable="d"
-        Title="Boyum Challenge" Height="450" Width="800">
+        Title="Boyum Challenge" Height="450" Width="800" Icon="icowpf.ico">
     <Grid Margin="0,0,2,0">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10*"/>
